@@ -6,7 +6,7 @@ seaborn==0.13.2
 scikit-learn==1.4.2
 xgboost==2.0.3
 prophet==1.1.5
-shap==0.43.8
+shap
 optuna==3.4.0
 statsmodels==0.14.0
 scipy==1.13.0
